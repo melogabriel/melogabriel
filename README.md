@@ -26,6 +26,7 @@ I have skills in:
 - [A Crash Course in Data Science](https://coursera.org/share/4c7a34e6929e3439c5373fdbf3bda69c)
 - [Advanced Google Tag Manager](https://www.linkedin.com/learning/certificates/017f3eba570c9389e371a85bff55daeb5ef17070f026ce0c5fb6a3ed31112800)
 - [Fundamentos para Análise de Dados por Microsoft e LinkedIn](https://www.linkedin.com/learning/certificates/2b48dadfebe956addd13dfed3b2093baea5c784e28f702792afad2050f81d121)
+- [Become a Data Scientist](https://www.linkedin.com/learning/certificates/e748837b29ef4cdb99a9d892c3a37eefb7208a0784cef0a4792c1431c98edab1)
 
 ## Contact
 
