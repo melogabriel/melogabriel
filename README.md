@@ -5,7 +5,7 @@ I am a Data Analyst with experience in Digital Analytics, research, and project 
 ## Technical Skills
 
 - Programming languages: Python, SQL, and R
-- Tools: Microsoft Power BI, Google Analytics, Google Tag Manager, and Looker Studio
+- Tools: Microsoft Power BI, Google Analytics, Google Tag Manager, Big Query and Looker Studio
 
 ## Education
 
