@@ -10,7 +10,7 @@ I am a Data Analyst with experience in web analytics, research, and project mana
 ## Education
 
 - Master's in Administration, Federal Fluminense University (UFF)
-- Master's in Economy, Faculty of Economics at the University of Coimbra (FEUC)
+- Exchange in Economy, Faculty of Economics at the University of Coimbra (FEUC)
 - MBA in Business Management and Information Systems, Federal Fluminense University (UFF)
 - Bachelor's in Information Systems, Estácio de Sá University (UNESA)
 
