@@ -31,4 +31,4 @@ I am a Data Analyst with experience in web analytics, research, and project mana
 
 - Email: [gabriel-melo@outlook.com](mailto:gabriel-melo@outlook.com)
 - LinkedIn: [https://www.linkedin.com/in/gabriel-melo/](https://www.linkedin.com/in/gabriel-melo/)
-- GitHub: [github.com/melogabriel](github.com/melogabriel)
+- Telegram: [@melogabriel](https://t.me/melogabriel)
