@@ -1,6 +1,6 @@
 # About Me
 
-I am a Data Analyst with experience in web analytics, research, and project management. Currently, I am a Master's student in Administration at the Federal Fluminense University (UFF), with a period of international mobility at the Faculty of Economics of the University of Coimbra (FEUC). I also have an MBA in Business Management and Information Systems from the Federal Fluminense University (UFF) and a bachelor's degree in Information Systems from Estácio de Sá University (UNESA).
+I am a Data Analyst with experience in web analytics, research, and project management. Master in Administration at the Federal Fluminense University (UFF), with a period of international mobility at the Faculty of Economics of the University of Coimbra (FEUC). I also have an MBA in Business Management and Information Systems from the Federal Fluminense University (UFF) and a bachelor's degree in Information Systems from Estácio de Sá University (UNESA).
 
 ## Technical Skills
 
