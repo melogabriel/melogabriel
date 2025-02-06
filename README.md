@@ -26,9 +26,6 @@ I am a Data Analyst with experience in digital analytics, research, and project 
   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
  
   
-  
-  
-
 ## Education
 
 - Master's in Administration, Federal Fluminense University (UFF)
@@ -56,7 +53,10 @@ I am a Data Analyst with experience in digital analytics, research, and project 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/melogabriel)
 
 
-[![Gabriel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melogabriel&theme=blue-green)](https://github.com/melogabriel/github-readme-stats)
+
+![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/overview.svg)
+![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/languages.svg)
+
 
 
 
