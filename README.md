@@ -58,6 +58,7 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 ![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/languages.svg)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
+**The language charts are based on recent commits.*
 
 
 
