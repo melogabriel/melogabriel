@@ -52,9 +52,15 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-melo/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/melogabriel)
 
-## Stats
+
+## [🔙 profile-views-counter](https://github.com/melogabriel/profile-views-counter)
 
 [![Image of https://github.com/melogabriel/profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/profile-views-counter)
+
+### :octocat: [melogabriel](https://github.com/melogabriel/melogabriel)
+![Image of profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/graph/411425982/large/year.png)
+
+## Stats
 
 ![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/overview.svg)
 ![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/languages.svg)
