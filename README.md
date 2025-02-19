@@ -52,6 +52,13 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-melo/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/melogabriel)
 
+## Stats
+
+![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/overview.svg)
+![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/languages.svg)
+
+![](./profile-3d-contrib/profile-custom-gitblock.svg)
+**The language charts are based on recent commits.*
 
 ## [🔙 profile-views-counter](https://github.com/melogabriel/profile-views-counter)
 
@@ -220,14 +227,6 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 </table>
 
 </details>
-
-## Stats
-
-![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/overview.svg)
-![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/languages.svg)
-
-![](./profile-3d-contrib/profile-custom-gitblock.svg)
-**The language charts are based on recent commits.*
 
 
 
