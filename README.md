@@ -58,7 +58,6 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 [![Image of https://github.com/melogabriel/profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/profile-views-counter)
 
 ### :octocat: [melogabriel](https://github.com/melogabriel/melogabriel)
-![Image of profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/graph/411425982/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
