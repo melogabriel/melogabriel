@@ -2,15 +2,26 @@
 
 I am a Data Analyst with experience in digital analytics, teaching, research, and project management. Master in Administration at the Federal Fluminense University (UFF), with a period of international mobility at the Faculty of Economics of the University of Coimbra (FEUC). I also have an MBA in Business Management and Information Systems from the Federal Fluminense University (UFF) and a bachelor's degree in Information Systems from Estácio de Sá University (UNESA).
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=The%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://www.turing.ac.uk/blog/what-alan-turing-means-us#:~:text=The%20biography%20Alan%20Turing%3A%20The,environment%20of%20other%5Bs%5D…)
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=The%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://www.turing.ac.uk/blog/what-alan-turing-means-us#:~:text=The%20biography%20Alan%20Turing%3A%20The,environment%20of%20other%5Bs%5D…)
+
+</div>
 
 ## Technical Skills
+
+<div align="center">
+	
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+</div>
 
 ## Tools
+
+<div align="center">
+
   ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![RStudio](https://img.shields.io/badge/RStudio%20IDE-75AADB.svg?style=for-the-badge&logo=RStudio-IDE&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
@@ -26,7 +37,9 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
  
-  
+  </div>
+
+
 ## Education
 
 - Master's in Administration, Federal Fluminense University (UFF)
@@ -55,8 +68,12 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 
 ## Stats
 
+<div align="center">
+
 ![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/overview.svg)
 ![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/languages.svg)
+
+</div>
 
 ![](./profile-3d-contrib/profile-custom-gitblock.svg)
 **The language charts are based on recent commits.*
