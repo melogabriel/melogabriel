@@ -228,5 +228,5 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 </details>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20isolated%20man%20does%20not%20develop%20any%20intellectual%20power.%20It%20is%20necessary%20for%20him%20to%20be%20immersed%20in%20an%20environment%20of%20other%20men%E2%80%A6%20He%20may%20then%20perhaps%20do%20a%20little%20research%20of%20his%20own%20and%20make%20a%20very%20few%20discoveries%20which%20are%20passed%20on%20to%20other%20men.%20From%20this%20point%20of%20view%20the%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://github.com/piyushsuthar/github-readme-quotes)
 
