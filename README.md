@@ -2,7 +2,7 @@
 
 I am a Data Analyst with experience in digital analytics, teaching, research, and project management. Master in Administration at the Federal Fluminense University (UFF), with a period of international mobility at the Faculty of Economics of the University of Coimbra (FEUC). I also have an MBA in Business Management and Information Systems from the Federal Fluminense University (UFF) and a bachelor's degree in Information Systems from Estácio de Sá University (UNESA).
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://www.turing.ac.uk/blog/what-alan-turing-means-us#:~:text=The%20biography%20Alan%20Turing%3A%20The,environment%20of%20other%5Bs%5D…)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=The%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://www.turing.ac.uk/blog/what-alan-turing-means-us#:~:text=The%20biography%20Alan%20Turing%3A%20The,environment%20of%20other%5Bs%5D…)
 
 ## Technical Skills
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
