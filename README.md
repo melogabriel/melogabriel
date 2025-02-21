@@ -84,6 +84,8 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 
 ### :octocat: [melogabriel](https://github.com/melogabriel/melogabriel)
 
+![](https://github.com/melogabriel/profile-views-counter/blob/master/graph/411425982/small/year.png)
+
 <details>
 	<summary>Click to expand table</summary>
 	<h2>:calendar: Year Page Views Table</h2>
