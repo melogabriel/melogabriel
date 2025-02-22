@@ -68,7 +68,10 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 
 ## Stats
 
+
 <div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melogabriel&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/overview.svg)
 ![](https://github.com/melogabriel/github-stats-transparent/blob/5e6b106c3372bfd2418e07e99d74d052ba1298b2/generated/languages.svg)
