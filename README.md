@@ -83,6 +83,8 @@ I am a Data Analyst with experience in digital analytics, teaching, research, an
 ![](./profile-3d-contrib/profile-custom-gitblock.svg)
 >**The language charts are based on recent commits.*
 
+[![Gabriel Melo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melogabriel&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## [🔙 profile-views-counter](https://github.com/melogabriel/profile-views-counter)
 
 [![Image of https://github.com/melogabriel/profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/profile-views-counter)
