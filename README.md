@@ -1,6 +1,6 @@
 # About Me
 
-I am a Data Analyst with experience in digital analytics, teaching, research, and project management. Master in Administration at the Federal Fluminense University (UFF), exchange in Economics, MBA in Business Management and Information Systems and a degree in Information Systems.
+I am a Data Analyst with experience in digital analytics, teaching, research, and project management. Master in Administration, exchange in Economics, MBA in Business Management and Information Systems, bachelor's degree in Information Systems.
 
 <div align="center">
 
