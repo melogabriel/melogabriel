@@ -1,9 +1,9 @@
 # About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Ui&weight=100&size=16&pause=1000&color=808080&multiline=true&width=1000&height=100&lines=I+am+a+Data+Analyst+with+experience+in+digital+analytics%2C+teaching%2C+research%2C+and+project+management.++Master+in+Administration%2C;exchange+in+Economics%2C+MBA+in+Business+Management+and+Information+Systems%2C+bachelor's+degree+in+Information+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Ui&weight=100&size=16&pause=1000&color=808080&multiline=true&width=1000&lines=I+am+a+Data+Analyst+with+experience+in+digital+analytics%2C+teaching%2C+research%2C+and+project+management.++Master+in+Administration%2C;exchange+in+Economics%2C+MBA+in+Business+Management+and+Information+Systems%2C+bachelor's+degree+in+Information+Systems.)](https://git.io/typing-svg)
 
 <div align="center">
-
+	
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=The%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://www.turing.ac.uk/blog/what-alan-turing-means-us#:~:text=The%20biography%20Alan%20Turing%3A%20The,environment%20of%20other%5Bs%5D…)
 
 </div>
