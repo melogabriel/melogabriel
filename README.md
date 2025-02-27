@@ -68,11 +68,15 @@
 
 ## Stats
 
+<div align="center">
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=melogabriel)](https://github.com/LordDashMe/github-contribution-stats/)
+
+</div>
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melogabriel&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=melogabriel)](https://github.com/LordDashMe/github-contribution-stats/)
 
 >**These statistics are presented in UTC time, which may not correspond to my local time. Contributions may be a few hours out of date.*
 
