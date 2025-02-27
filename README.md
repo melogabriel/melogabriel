@@ -255,6 +255,12 @@
 
 </details>
 
+## Github Metrics
 
+<details><summary>Click to Expand</summary>
+  <p align="center">
+    <a href="#" target="blank"><img align="center" src="github-metrics.svg" /></a>
+  </p>
+</details>
 
 
