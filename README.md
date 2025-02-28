@@ -66,11 +66,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-melo/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/melogabriel)
 
-## Stats
+## Github Dashboard
 
 <div align="center">
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=melogabriel)](https://github.com/LordDashMe/github-contribution-stats/)
+
+</div>
+
+<div align="center">
+	
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melogabriel&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melogabriel&theme=transparent&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=melogabriel&theme=transparent)
+
 
 </div>
 
@@ -89,6 +98,9 @@
 >**The language charts are based on recent commits.*
 
 [![Gabriel Melo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melogabriel&theme=&github-compact&bg_color=none&color=808080&line=07cfe9&point=07cfe9&area=true&area_color=07cfe9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 ## [🔙 profile-views-counter](https://github.com/melogabriel/profile-views-counter)
 
@@ -260,7 +272,7 @@
 
 </details>
 
-## Github Metrics
+## Github Summary Metrics Card
 
 <details><summary>Click to Expand</summary>
   <p align="center">
