@@ -100,9 +100,9 @@
 [![Gabriel Melo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melogabriel&theme=&github-compact&bg_color=none&color=808080&line=07cfe9&point=07cfe9&area=true&area_color=07cfe9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<div align="center">
 
-
-## [🔙 profile-views-counter](https://github.com/melogabriel/profile-views-counter)
+**Profile Views Counter**
 
 [![Image of https://github.com/melogabriel/profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/profile-views-counter)
 
@@ -271,6 +271,8 @@
 </table>
 
 </details>
+
+</div>
 
 ## Github Summary Metrics Card
 
