@@ -85,7 +85,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melogabriel&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=melogabriel&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 >**These statistics are presented in UTC time, which may not correspond to my local time. Contributions may be a few hours out of date.*
 
