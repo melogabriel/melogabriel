@@ -66,7 +66,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-melo/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/melogabriel)
 
-## Github Dashboard
+## GitHub Dashboard
 
 <div align="center">
 
@@ -274,7 +274,7 @@
 
 </div>
 
-## Github Summary Metrics Card
+## GitHub Summary Metrics Card
 
 <details><summary>Click to Expand</summary>
   <p align="center">
