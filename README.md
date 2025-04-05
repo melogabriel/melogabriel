@@ -100,7 +100,7 @@
 
 ### :octocat: [melogabriel](https://github.com/melogabriel/melogabriel)
 
-![](https://github.com/melogabriel/profile-views-counter/blob/master/graph/411425982/small/year.png)
+![](https://github.com/melogabriel/profile-views-counter/blob/master/graph/411425982/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
