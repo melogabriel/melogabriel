@@ -4,7 +4,7 @@
 
 <div align="center">
 	
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=The%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://www.turing.ac.uk/blog/what-alan-turing-means-us#:~:text=The%20biography%20Alan%20Turing%3A%20The,environment%20of%20other%5Bs%5D…) [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&quote=Be%20curious.%20Read%20widely.%20Try%20new%20things.%20What%20people%20call%20intelligence%20just%20boils%20down%20to%20curiosity.&author=Aaron%20Swartz)](https://www.aaronsw.com/)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=The%20search%20for%20new%20techniques%20must%20be%20regarded%20as%20carried%20out%20by%20the%20human%20community%20as%20a%20whole,%20rather%20than%20by%20individuals.&author=Alan%20Turing)](https://www.turing.ac.uk/blog/what-alan-turing-means-us#:~:text=The%20biography%20Alan%20Turing%3A%20The,environment%20of%20other%5Bs%5D…) [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Be%20curious.%20Read%20widely.%20Try%20new%20things.%20What%20people%20call%20intelligence%20just%20boils%20down%20to%20curiosity.&author=Aaron%20Swartz)](https://www.aaronsw.com/)
 
 </div>
 
