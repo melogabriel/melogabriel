@@ -102,6 +102,7 @@
 
 ![](https://github.com/melogabriel/profile-views-counter/blob/master/graph/411425982/large/year.png)
 
+
 <details>
 	<summary>Click to expand table</summary>
 	<h2>:calendar: Year Page Views Table</h2>
@@ -119,13 +120,24 @@
 	</tr>
 	<tr>
 		<td>
+			<code>2025/4/1</code>
+		</td>
+		<td>
+			<code>13</code>
+		</td>
+		<td>
+			<code>311</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>15</code>
 		</td>
 		<td>
-			<code>102</code>
+			<code>98</code>
 		</td>
 	</tr>
 	<tr>
@@ -249,21 +261,10 @@
 			<code>0</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2024/3/1</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-		<td>
-			<code>0</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/3/31 6:14 PM UTC</i></small>
+<small><i>Last updated on 2025/4/30 12:19 PM UTC</i></small>
 
 
 ## GitHub Summary Metrics Card
