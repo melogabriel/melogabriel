@@ -1,6 +1,6 @@
 # About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Ui&weight=100&size=16&color=808080&multiline=true&width=1250&lines=I+am+a+Data+Analyst+with+experience+in+digital+analytics%2C+teaching%2C+research%2C+and+project+management.++Master+in+Administration%2C;exchange+in+Economics%2C+MBA+in+Business+Management+and+Information+Systems%2C+bachelor's+degree+in+Information+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Ui&weight=100&size=16&color=808080&multiline=true&width=1250&lines=I+am+a+Data+Analyst+with+experience+in+digital+analytics%2C+teaching%2C+research%2C+and+project+management.++Master+in+Administration%2C;exchange+in+Economics%2C+MBA+in+Business+Management+and+Information+Systems%2C+BSc+in+Information+Systems.)](https://git.io/typing-svg)
 
 <div align="center">
 	
