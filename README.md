@@ -1,6 +1,8 @@
 # About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Ui&weight=100&size=16&color=808080&multiline=true&width=1250&lines=I+am+a+Data+Analyst+with+experience+in+digital+analytics%2C+teaching%2C+research%2C+and+project+management.++Master+in+Administration%2C;exchange+in+Economics%2C+MBA+in+Business+Management+and+Information+Systems%2C+BSc+in+Information+Systems.)](https://git.io/typing-svg)
+I'm a Data Analyst with a strong professional background in Python, R, and cloud platforms leveraging data for insights. 
+I'm also a passionate advocate and participant in open game development, retro gaming, modding culture, and the open-source community. 
+Constantly exploring, learning, and connecting the dots between data and interactive experiences.
 
 <div align="center">
 	
