@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    69.2k added, 29.1k removed
+                                    4.03k added, 1.80k removed
                                 </div>
                             </section>
                             <section>
@@ -427,22 +427,22 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">python</div>
-                            <div class="label" title="">javascript</div>
-                            <div class="label" title="">linux</div>
-                            <div class="label" title="">database</div>
-                            <div class="label" title="">machine-learning</div>
-                            <div class="label" title="">deep-learning</div>
-                            <div class="label" title="">data-structures</div>
-                            <div class="label" title="">chrome</div>
-                            <div class="label" title="">google</div>
-                            <div class="label" title="">data-visualization</div>
-                            <div class="label" title="">chrome-extension</div>
-                            <div class="label" title="">terminal</div>
-                            <div class="label" title="">ios</div>
-                            <div class="label" title="">r</div>
-                            <div class="label" title="">jupyter-notebook</div>
-                            <div class="label" title="tensorflow, macos, scikit-learn, google-tag-manager">and 4 more...</div>
+                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                            <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
+                            <div class="label" title="Linux is an open source kernel.">linux</div>
+                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
+                            <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
+                            <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
+                            <div class="label" title="Data structures are a way of organizing and storing data.">data structures</div>
+                            <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
+                            <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
+                            <div class="label" title="Data visualization is the graphic representation of data and trends.">data visualization</div>
+                            <div class="label" title="Chrome extensions enable users to customize the Chrome browsing experience.">chrome extension</div>
+                            <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
+                            <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
+                            <div class="label" title="R is a free programming language and software environment for statistical computing and graphics.">r</div>
+                            <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
+                            <div class="label" title="Tensorflow, macOS, scikit-learn, google-tag-manager">and 4 more...</div>
                         </div>
                     </section>
                 </div>
@@ -2827,7 +2827,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2025, 17:30:17 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2025, 18:25:56 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
