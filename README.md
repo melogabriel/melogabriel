@@ -260,6 +260,20 @@ Constantly exploring, learning, and connecting the dots between data and interac
 
 ###
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+###
+
 ## GitHub Summary Metrics Card
 
 <details><summary>Click to Expand</summary>
