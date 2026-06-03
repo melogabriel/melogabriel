@@ -282,7 +282,7 @@ Constantly exploring, learning, and connecting the dots between data and interac
   </p>
 </details>
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=melogabriel&theme=github&headerStyle=mac&typingSpeed=40&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit)](https://github.com/melogabriel)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=melogabriel&theme=dracula&headerStyle=mac&typingSpeed=40&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit)](https://github.com/melogabriel)
 
 
 
