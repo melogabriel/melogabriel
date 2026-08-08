@@ -2542,7 +2542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>melogabriel/airtable-to-googlesheet</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight, open-source Google Apps Script solution that automatically syncs records from an Airtable base into Google Sheets via the Airtable REST API.</div>
@@ -2855,7 +2855,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2026, 11:39:09 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2026, 12:36:49 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
