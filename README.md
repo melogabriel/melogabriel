@@ -1,6 +1,6 @@
 # About Me
 
-I'm a Data Analyst with a strong professional background in Python, R, and cloud platforms leveraging data for insights. 
+I'm a Data Engineer with a strong professional background in Python, R, and cloud platforms leveraging data for insights. 
 I'm also a passionate advocate and participant in open game development, retro gaming, modding culture, and the open-source community. 
 Constantly exploring, learning, and connecting the dots between data and interactive experiences.
 
